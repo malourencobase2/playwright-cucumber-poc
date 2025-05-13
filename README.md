@@ -97,8 +97,5 @@ Para rodar os testes, use:
 npm test
 ```
 
----
-
 Feito com 💻 para automação de testes no site da Base2.
 
-```
