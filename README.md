@@ -52,7 +52,7 @@ test-automation/
 ```bash
 git clone <url-do-repo> test-automation
 cd test-automation
-````
+```
 
 2. Inicialize o projeto:
 
