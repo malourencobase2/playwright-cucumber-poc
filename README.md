@@ -24,7 +24,6 @@ Este projeto utiliza **TypeScript**, **Cucumber.js**, **Playwright** e **Gherkin
 
 ## 📂 Estrutura do Projeto
 
-```
 
 test-automation/
 ├── features/
@@ -36,8 +35,6 @@ test-automation/
 ├── tsconfig.json
 ├── package.json
 └── README.md
-
-```
 
 ---
 
